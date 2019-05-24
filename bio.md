@@ -6,6 +6,7 @@
 
 # Bio
 Junior Computer Science and Mathematics dual major. Nothing much.
+![2019-05-24-103616](https://user-images.githubusercontent.com/40375246/58338557-ec934c00-7e15-11e9-88d9-fbf4e9316e5a.jpg)
 
 
 # Lab Reports
