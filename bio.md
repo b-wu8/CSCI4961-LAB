@@ -8,6 +8,6 @@
 Junior Computer Science and Mathematics dual major. Nothing much.
 
 # Lab Reports
-[Lab 1](https://github.com/b-wu8/CSCI4961-LAB/blob/master/README.md)
+[Lab 1](Lab1/lab1.md)
 
 ![IMG_4478](https://user-images.githubusercontent.com/40375246/58338892-9246bb00-7e16-11e9-8fbf-0d11f0b8bcf4.JPG)
