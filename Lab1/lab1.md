@@ -18,3 +18,14 @@ man tree
 ![image](https://user-images.githubusercontent.com/40375246/58345318-0fc5f780-7e26-11e9-9404-76da334a5c3a.png)
 # 8.
 ![image](https://user-images.githubusercontent.com/40375246/58345453-66333600-7e26-11e9-9974-fd90ddee7fcf.png)
+
+
+#Regex Crossword
+# 1.
+![Screenshot from 2019-05-24 20-35-51](https://user-images.githubusercontent.com/40375246/58362286-95b46380-7e63-11e9-99f5-1ac9edc8cf33.png)
+# 2.
+![Screenshot from 2019-05-24 20-39-28](https://user-images.githubusercontent.com/40375246/58362351-13786f00-7e64-11e9-88d1-f5e72f696373.png)
+# 3.
+![Screenshot from 2019-05-24 20-40-18](https://user-images.githubusercontent.com/40375246/58362365-2e4ae380-7e64-11e9-8b16-07d74c3cf8b8.png)
+# 4.
+![Screenshot from 2019-05-24 20-40-58](https://user-images.githubusercontent.com/40375246/58362376-44f13a80-7e64-11e9-8a0b-04e3b3175e59.png)
