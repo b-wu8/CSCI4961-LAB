@@ -1,4 +1,16 @@
 Lab 01
+Reflection on Open Source Definition
+
+Open Source serves as a platform welcoming everyone in IT field to study and contribute. It is a platform with absolute freedom but with certain rules that cannot be violated, such as respect and integrity. It is participants', in other words, everyone's, responsibility to keep the open source world run in correct order and harmony.
+
+Suggestions for How to Answer Questions in a Helpful Way:
+1. Based on the difficulty of the question, you should probably consult google first to see if there is a perfect answer. If not, ask it.
+2. When asking the question, it is better to post the specs related to that problem. For instance, the setup of the program, execution environment, and program structure can be really helpful for people to understand the context of the problem. 
+3. Straight to the point. Avoid long and unnecessary explanations. 
+
+Reflection on Free Culture:
+There is a highly positive compliment of the intimate network of RPI community at the beginning. It describes a concept of network that only works within the institution. Jesse takes existing code and modified it to avoid crash of computer due to a bug. Beyond that, he added more functionality to make the search engine better. However, he was sued because of copyright by RIAA. The case is ridiculous because there was no complete agreement or regulation on the use of intellectual property on the Internet. It was not Jesse's fault from any point of view. There should be regulations and agreements that developers and regulators to follow and obey to keep the use of others' property legal and appropriate. 
+
 man tree
 ![image](https://user-images.githubusercontent.com/40375246/58339232-1f8a0f80-7e17-11e9-985c-7e3044ef05e7.png)
 # Regex
@@ -29,3 +41,7 @@ man tree
 ![Screenshot from 2019-05-24 20-40-18](https://user-images.githubusercontent.com/40375246/58362365-2e4ae380-7e64-11e9-8b16-07d74c3cf8b8.png)
 # 4.
 ![Screenshot from 2019-05-24 20-40-58](https://user-images.githubusercontent.com/40375246/58362376-44f13a80-7e64-11e9-8a0b-04e3b3175e59.png)
+
+# Open Source
+
+I am interested in running a large scale server with enormous amount of data. Internet and data security might be my point of interest. I will look around on github and see if there is such project that interests me. 
