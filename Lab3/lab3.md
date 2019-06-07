@@ -27,9 +27,13 @@ M=
 
 # ckRGB
 Contributors: 3
+
 Lines of code: 68789
+
 First Commit: Mar 10, 2019
+
 Final Commit: Jun 7, 2019
+
 Current Branches: master, c_api, hardware
 
 The lines of code differ a lot from the html and terminal output. From the terminal, I have 68789. From the gitstats output, I have 41272. The reason why there is a difference is probably because the command ran in the terminal takes in account of every document in the repository, which includes documentations and README.md. The gitstats only looks for lines of code that are actually working, which excludes the documentations. 
