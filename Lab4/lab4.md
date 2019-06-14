@@ -21,6 +21,11 @@ I don't really agree. Before starting commerical use or massive application, dev
 
 Linus Torvalds stated himself that if the GNU kernel was available to public back in 1991, he probably would not write one of his own version. And that states his purpose of writing his own kernal as open to public and free. He wanted to name his kernal Freax, which is an allusion of "free", "freak", and "x" for Unix. It was initially licensed under GNU GPL license, which allows Linux to be reused by other computer systems licensed under the same license. However, it prohibits commercial redistribution, which sticks to Linus's intent.
 
+# Our own open source project: OfficeChat
+
+https://github.com/b-wu8/OfficeChat
+
+
 ## 5 Projects
 Website | License Present | License
 ---------|:----------|:-------
