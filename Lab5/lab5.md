@@ -13,6 +13,5 @@
 ![Screenshot from 2019-06-21 11-51-09](https://user-images.githubusercontent.com/40375246/59935996-fdd37680-941c-11e9-972d-9ab6baa1e1ee.png)
 
 ## Step 5
-![Screenshot from 2019-06-21 11-57-23](https://user-images.githubusercontent.com/40375246/59936016-088e0b80-941d-11e9-990d-a6c3a5f24240.png)
-![Screenshot from 2019-06-21 11-59-27](https://user-images.githubusercontent.com/40375246/59936019-09bf3880-941d-11e9-9ceb-54535e0f0811.png)
-
+![Screenshot from 2019-06-21 12-21-49](https://user-images.githubusercontent.com/40375246/59936967-3d9b5d80-941f-11e9-968e-bcd8f25fa749.png)
+![Screenshot from 2019-06-21 12-21-29](https://user-images.githubusercontent.com/40375246/59936971-3ecc8a80-941f-11e9-8161-5de39c1184d8.png)
