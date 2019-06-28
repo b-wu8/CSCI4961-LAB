@@ -52,3 +52,9 @@ target_link_libraries(Shared SharedSource)
 add_executable(Static program.c)
 target_link_libraries(Static StaticSource)
 ```
+Size Comparison
+
+The sizes are approximately the same, but in my case, static is slightly larger than dynamic. 
+
+Result
+![Screenshot from 2019-06-28 13-24-23](https://user-images.githubusercontent.com/40375246/60359813-1fe27100-99a8-11e9-8dfd-b7dd46846e9c.png)
