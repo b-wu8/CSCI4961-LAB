@@ -43,16 +43,27 @@ def generate_graph(words):
 
     def edit_distance_one(word):
         for i in range(len(word)):
-            left, c, right = word[0:i], word[i], word[i + 1:]
+            if (i < 2):
+                continue
+            left, c, right = word[1:i], word[i], word[i + 1:]
             j = lookup[c]  # lowercase.index(c)
-            l = []
-            ls = []
-            for cc in lowercase[j + 1:]:
-                l = list(permutations((left+cc+right),5))
+
+            l=[]
+            ls=[]
+            for cc in lowercase[j+1:]:
+                l=list(word[0]+left+cc+right)
                 ls.append(l)
-            for i in range(len(ls)):
-                for j in range(len(ls[i])):
-                    yield ''.join(list(ls[i][j]))
+            for m in range(len(ls)):
+                for j in range(len(ls[m])):
+                    yield ''.join(list(ls[m][j]))
+            # l = []
+            # ls = []
+            # for cc in lowercase[j + 1:]:
+            #     l = list(permutations((left+cc+right),5))
+            #     ls.append(l)
+            # for i in range(len(ls)):
+            #     for j in range(len(ls[i])):
+            #         yield ''.join(list(ls[i][j]))
 
     candgen = ((word, cand) for word in sorted(words)
                for cand in edit_distance_one(word) if cand in words)
@@ -64,13 +75,13 @@ def generate_graph(words):
 
 def words_graph():
     """Return the words example graph from the Stanford GraphBase"""
-    fh = gzip.open('words_dat.txt.gz', 'r')
+    fh = gzip.open('words4_dat.txt.gz', 'r')
     words = set()
     for line in fh.readlines():
         line = line.decode()
         if line.startswith('*'):
             continue
-        w = str(line[0:5])
+        w = str(line[0:4])
         words.add(w)
     return generate_graph(words)
 
@@ -84,7 +95,7 @@ if __name__ == '__main__':
     print("%d connected components" % nx.number_connected_components(G))
 
     for (source, target) in [
-                             ('chaos', 'order')]:
+                             ('when', 'worm')]:
         print("Shortest path between %s and %s is" % (source, target))
         try:
             sp = nx.shortest_path(G, source, target)
