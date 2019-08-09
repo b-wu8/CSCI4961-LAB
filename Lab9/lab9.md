@@ -17,3 +17,5 @@ The processed pictures are as follows:
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/40375246/62805876-44f5f380-babf-11e9-97c7-c567d22e2fa1.jpg)
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/40375246/62805878-44f5f380-babf-11e9-9013-7b2992bafe70.jpg)
 ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/40375246/62805879-44f5f380-babf-11e9-9efc-a3e9338eecd9.jpg)
+
+They are: backpack, pullover, and slippers. Only the pullover was recognized. I ran the training and test a couple times and got the same result every time.
