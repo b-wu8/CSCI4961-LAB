@@ -11,3 +11,9 @@
 ![Screenshot from 2019-08-09 15-55-43](https://user-images.githubusercontent.com/40375246/62805817-1aa43600-babf-11e9-8e26-bd1dd3ce839b.png)
 
 1 out of 3. Not so bad but not so good.
+
+The processed pictures are as follows:
+
+![Webp net-resizeimage](https://user-images.githubusercontent.com/40375246/62805876-44f5f380-babf-11e9-97c7-c567d22e2fa1.jpg)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/40375246/62805878-44f5f380-babf-11e9-9013-7b2992bafe70.jpg)
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/40375246/62805879-44f5f380-babf-11e9-9efc-a3e9338eecd9.jpg)
